@@ -50,5 +50,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- ACKNOWLEDGMENTS -->
 ## Deploy
-Link: https://github.com/narutosimaha/nexter-project
+Link: https://narutosimaha.github.io/nexter-project/
 
