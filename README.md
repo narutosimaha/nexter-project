@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/logo.png" alt="Logo" width="80">
+    <img src="img/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">Nexter Homepage</h3>
@@ -13,23 +13,6 @@
   
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    
-    <li><a href="#deploy">Deploy</a></li>
-    
-  </ol>
-</details>
 
 
 
