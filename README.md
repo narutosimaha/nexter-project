@@ -20,7 +20,7 @@
 ## About The Project
 
 ![image](https://user-images.githubusercontent.com/82920386/159165180-5c12ff3d-d6a6-4bd1-871b-321235983bb5.png)
-This is the project that I made when learning CSS Grid taught by Jonas Schmedtmann on Udemy.
+This is a homepage for an app which is about a real estate business. I made this project while learning CSS Grid as taught by Jonas Schmedtmann on Udemy.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
