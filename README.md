@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" width="80">
   </a>
 
   <h3 align="center">Nexter Homepage</h3>
@@ -25,19 +25,9 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    
+    <li><a href="#deploy">Deploy</a></li>
+    
   </ol>
 </details>
 
@@ -46,8 +36,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/82920386/159163869-cefeea41-3329-46f8-a29f-8470a497f4aa.png)
-This is the project that I made when learning CSS Flexbox taught by Jonas Schedment on Udemy.
+![image](https://user-images.githubusercontent.com/82920386/159165180-5c12ff3d-d6a6-4bd1-871b-321235983bb5.png)
+This is the project that I made when learning CSS Grid taught by Jonas Schmedtmann on Udemy.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -77,5 +67,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- ACKNOWLEDGMENTS -->
 ## Deploy
-Link: https://narutosimaha.github.io/trillo-learning/
+Link: https://github.com/narutosimaha/nexter-project
 
